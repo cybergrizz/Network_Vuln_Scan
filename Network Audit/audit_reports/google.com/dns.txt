@@ -1,0 +1,3 @@
+A Record:
+MX Record:
+TXT Record:

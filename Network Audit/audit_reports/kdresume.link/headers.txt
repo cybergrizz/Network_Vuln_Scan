@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Sun, 02 Nov 2025 20:59:12 GMT
+Location: https://www.kdresume.link/
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 94defde799a43ca420136e37bc3758dc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD55-P4
+X-Amz-Cf-Id: Cr0cMqN0XPeVT667zDmEy64FJH0jdAeeWU5h9QkdQDfcKEzt0YgShw==
+Age: 131
+
